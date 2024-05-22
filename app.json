@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Qibla",
+    "slug": "Qibla",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
